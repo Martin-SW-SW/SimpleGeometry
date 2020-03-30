@@ -1,0 +1,11 @@
+C:\c#_code\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.exe
+C:\c#_code\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.deps.json
+C:\c#_code\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.runtimeconfig.json
+C:\c#_code\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.runtimeconfig.dev.json
+C:\c#_code\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.dll
+C:\c#_code\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.pdb
+C:\c#_code\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.csprojAssemblyReference.cache
+C:\c#_code\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.AssemblyInfoInputs.cache
+C:\c#_code\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.AssemblyInfo.cs
+C:\c#_code\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.dll
+C:\c#_code\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.pdb
